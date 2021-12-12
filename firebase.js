@@ -1,12 +1,12 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCg8i3Ac1McdiSa6p_GGBplywdAGHj2U4g",
-  authDomain: "docs-nextjs-clone.firebaseapp.com",
-  projectId: "docs-nextjs-clone",
-  storageBucket: "docs-nextjs-clone.appspot.com",
-  messagingSenderId: "13215224992",
-  appId: "1:13215224992:web:1b12209c455415fa70a5c5",
+  apiKey: "AIzaSyDddYS469BRo8zQiCSYj_rQY2apQOOBW6I",
+  authDomain: "docs-clone-nextjs-100ad.firebaseapp.com",
+  projectId: "docs-clone-nextjs-100ad",
+  storageBucket: "docs-clone-nextjs-100ad.appspot.com",
+  messagingSenderId: "557291989122",
+  appId: "1:557291989122:web:f8042a59be42c2bb30ac9b",
 };
 
 const app = !firebase.apps.length
